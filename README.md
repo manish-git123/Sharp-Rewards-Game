@@ -186,4 +186,9 @@ This project is created for educational purposes.
 
 ## Contact
 
+## 🎥 Demo Video
+Download and watch the project demo here:  
+https://github.com/manish123/SharpRewardsApp/releases
+
+
 For issues or questions, please refer to the project repository.
