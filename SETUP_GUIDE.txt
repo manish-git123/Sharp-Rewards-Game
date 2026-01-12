@@ -1,0 +1,56 @@
+================================================================================
+SHARP REWARDS APP - QUICK SETUP GUIDE
+================================================================================
+
+STEP 1: OPEN IN ANDROID STUDIO
+-------------------------------
+1. Launch Android Studio
+2. Click "Open" (or File → Open)
+3. Select the "SharpRewardsApp" folder
+4. Click "OK"
+
+STEP 2: WAIT FOR GRADLE SYNC
+-----------------------------
+- Android Studio will automatically sync Gradle files
+- This may take 2-5 minutes on first open
+- Wait for "Gradle sync finished" message at the bottom
+
+STEP 3: SET UP EMULATOR (OPTIONAL)
+-----------------------------------
+If you don't have a physical Android device:
+1. Click "Tools" → "Device Manager"
+2. Click "Create Device"
+3. Select "Pixel 5" or any device
+4. Click "Next"
+5. Download a system image (API 34 recommended) if needed
+6. Click "Next" → "Finish"
+
+STEP 4: RUN THE APP
+-------------------
+1. Connect your Android device (USB debugging enabled) OR start emulator
+2. Click the green "Run" button (▶) at the top
+3. Select your device/emulator
+4. Wait for app to install and launch
+
+TROUBLESHOOTING
+---------------
+If Gradle sync fails:
+- Check internet connection
+- File → Invalidate Caches → Invalidate and Restart
+- Ensure JDK is installed (File → Project Structure → SDK Location)
+
+If build fails:
+- Build → Clean Project
+- Build → Rebuild Project
+
+REQUIREMENTS
+------------
+- Android Studio (latest version)
+- JDK 8 or higher (JDK 11+ recommended)
+- Android SDK (automatically managed by Android Studio)
+- Minimum Android 7.0 (API 24) device/emulator
+
+================================================================================
+The app requires NO API KEYS and works completely OFFLINE!
+All data is stored locally on your device.
+================================================================================

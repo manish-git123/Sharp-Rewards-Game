@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/background_color"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spin the Wheel"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary_color"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/pointsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Points: 0"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary_dark"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/spinsLeftTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spins Left Today: 5"
+        android:textSize="16sp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginBottom="32dp" />
+
+    <ImageView
+        android:id="@+id/wheelImageView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@android:drawable/ic_menu_recent_history"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/card_background" />
+
+    <Button
+        android:id="@+id/spinButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SPIN!"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingLeft="64dp"
+        android:paddingRight="64dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:backgroundTint="@color/accent_color" />
+
+</LinearLayout>

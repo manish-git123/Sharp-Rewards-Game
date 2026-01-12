@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sharp Rewards</string>
+    <string name="daily_streak">Daily Streak</string>
+    <string name="spin_wheel">Spin Wheel</string>
+    <string name="quiz_game">Quiz Game</string>
+    <string name="tap_collect">Tap &amp; Collect</string>
+</resources>

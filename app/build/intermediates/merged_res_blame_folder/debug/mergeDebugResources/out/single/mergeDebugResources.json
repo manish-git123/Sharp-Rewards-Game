@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\layout_activity_spin_wheel.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\layout\\activity_spin_wheel.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\layout_activity_quiz_completed.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\layout\\activity_quiz_completed.xml"
+    },
+    {
+        "merged": "com.sharprewards.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.sharprewards.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sharprewards.app-debug-31:/layout_activity_daily_streak.xml.flat",
+        "source": "com.sharprewards.app-main-33:/layout/activity_daily_streak.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\drawable_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\drawable\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\layout_activity_tap_collect.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\layout\\activity_tap_collect.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-debug-31:\\layout_activity_daily_streak.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\8.13\\com.sharprewards.app-main-33:\\layout\\activity_daily_streak.xml"
+    }
+]
